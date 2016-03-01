@@ -20,5 +20,5 @@
 
 ### Screenshot:
 
-![]()
+![Screenshot of Reindeer Exercise](https://raw.githubusercontent.com/mattbruton/exercise-JS-reindeer/master/screenshots/ReindeerScreenshot.png)
 
