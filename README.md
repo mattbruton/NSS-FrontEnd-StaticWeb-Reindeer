@@ -9,8 +9,8 @@
 
   2. `var reindeer = ["Dasher", "Dancer", "Prancer", "Vixen", "Comet", "Cupid", "Donner", "Blitzen"];`
 
-    - and loop through both, placing the color before the reindeer's name as string.
-    - followed by appending the string to the DOM in individual `<p>` tags within a `<div>`.
+    - and loop through both, adding object in color array to corresponding index of reindeer's name array.
+    - followed by appending the pair to the DOM in individual `<p>` tags within a `<div>`.
 
 ### To Run:
 
